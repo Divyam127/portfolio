@@ -22,8 +22,8 @@ const projects = [
     src: "portfolioPhoto.png",
     link: "https://i.ibb.co/bjCKxpT6/portfolio-Photo.png",
     color: "#8f89ff",
-    githubLink: "https://github.com/seraprogrammer/portfolio",
-    liveLink: "https://codervai.vercel.app",
+    githubLink: "https://github.com/Divyam127/portfolio",
+    liveLink: "https://divyamportfolio.vercel.app/",
   },
   {
     title: "⚽ Indo Club - Football Club Website",
