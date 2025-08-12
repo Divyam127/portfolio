@@ -137,16 +137,16 @@ export default function Contact() {
                 {/* LinkedIn */}
                 <div className="flex items-center space-x-4">
                   <a
-                    href="https://www.linkedin.com/in/your-profile"
+                    href="https://www.linkedin.com/in/divyampandey127/"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="https://www.linkedin.com/in/divyampandey127/"
                     className="bg-blue-200/10 p-3 rounded-lg transform transition duration-700 hover:scale-150 hover:-translate-y-1"
                   >
                     <Linkedin className="w-6 h-6 text-blue-500" />
                   </a>
                   <div>
                     <h3 className="font-semibold">LinkedIn</h3>
-                    <a href="https://www.linkedin.com/in/your-profile" className="text-gray-400 hover:underline">linkedin.com/in/your-profile</a>
+                    <a href="https://www.linkedin.com/in/divyampandey127/" className="text-gray-400 hover:underline">https://www.linkedin.com/in/divyampandey127/</a>
                   </div>
                 </div>
 
